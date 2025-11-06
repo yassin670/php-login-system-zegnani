@@ -69,6 +69,12 @@
 			  </div>
 			</div>
       	<?php } ?>
+		<div style="margin-top: 20px;">
+    		<a href="http://localhost:8081/phpmyadmin/index.php" class="btn btn-primary">
+        		Aller à mon site web
+    		</a>
+		</div>
+
       </div>
 </body>
 </html>
