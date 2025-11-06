@@ -1,25 +1,27 @@
-# How to Make Multi User Role Based Login Form in PHP and MySQL
+Système complet d’authentification PHP avec rôles utilisateurs (Admin / User)
 
-version: 1.0.0
+Ce projet est un système de connexion sécurisé que j’ai développé en PHP avec gestion de rôles multiples. Il permet d’attribuer différents accès selon le type d’utilisateur (ex : administrateur, utilisateur simple).
 
-### UserName : elias
+🔧 Fonctionnalités que j’ai implémentées :
 
-### Password : 1234
+✅ Création de l’architecture complète du système (login, inscription, session).
 
-### UserType : Admin
+✅ Mise en place de la gestion des rôles (Admin / User) avec redirection vers différents dashboards.
 
-### ---------------------------------
+✅ Personnalisation totale du design : logo, nom du site, interface utilisateur.
 
-### UserName : john
+✅ Base de données MySQL conçue et remplie par mes propres exemples d’utilisateurs.
 
-### Password : abcd
+✅ Interface et messages traduits en français.
 
-### UserType : user
+✅ Fichier d’installation en local (XAMPP) pour faciliter l’exécution du projet.
 
-## Full Tutorial
+💻 Technologies utilisées :
 
-[On Youtube](https://youtu.be/-8q3GLkr9Ts)
+PHP (Procédural / MySQLi)
 
-## Authors
+MySQL
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+HTML, CSS, Bootstrap
+
+XAMPP (serveur local)
