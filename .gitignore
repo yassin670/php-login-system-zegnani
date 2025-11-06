@@ -1,0 +1,13 @@
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+vendor/
+composer.lock
+config.php
+.env
+*.env
+*.log
+/tmp/
+uploads/
+node_modules/
