@@ -11,3 +11,4 @@ config.php
 /tmp/
 uploads/
 node_modules/
+db_conn.php
